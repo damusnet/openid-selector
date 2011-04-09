@@ -102,4 +102,4 @@ openid.sprite = 'fr'; // reused in german& japan localization
 openid.demo_text = 'Mode de démo client. Normalement, l\'OpenID suivant aurait été soumis :';
 openid.signin_text = 'Connexion';
 openid.image_title = 'Connectez-vous avec {provider}';
-openid.img_path = '/img/openid/';
+openid.img_path = '/images/';
